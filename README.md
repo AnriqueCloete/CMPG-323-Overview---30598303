@@ -61,3 +61,9 @@ I created a report in Power Bi. This report gives the current standings of devic
 The second page is used for monitoring the devices:
 
 ![image](https://user-images.githubusercontent.com/110592885/202446255-0771a67e-7cff-4ecb-835a-a42d19984456.png)
+
+The third page contains information aboout the registration of devices (date):
+
+![image](https://user-images.githubusercontent.com/110592885/202446464-a1799e03-1044-46a5-aef7-d7e1b689ec5a.png)
+
+This information can be used to see how old devices are and which devices lasts longer than others, as well as the number of categories that devices are in and the total number of devices registered over time.
