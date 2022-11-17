@@ -26,8 +26,9 @@ I created an API with the following url: https://30598303api.azurewebsites.net/s
 /api/Zones/{id} - GET
 /api/Zones/{id} - PUT 
 
-https://github.com/AnriqueCloete/CMPG323_Project2_API/blob/main/API%20Manager%20Screenshot%201.png?raw=true
+![image](https://user-images.githubusercontent.com/110592885/202443671-53662eba-0f65-48dc-b9f4-3c69a23ae628.png)
 
-https://github.com/AnriqueCloete/CMPG323_Project2_API/blob/main/API%20Manager%20Screenshot%202.png?raw=true
+![image](https://user-images.githubusercontent.com/110592885/202443709-caa3bf96-84c8-429f-970d-02e1aeb6a681.png)
 
-https://github.com/AnriqueCloete/CMPG323_Project2_API/blob/main/API%20Manager%20Screenshot%203.png?raw=true
+![image](https://user-images.githubusercontent.com/110592885/202443734-9ec6dfdf-29ca-4e4d-b89b-262151d7da55.png)
+
