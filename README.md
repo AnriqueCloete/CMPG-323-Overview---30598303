@@ -53,3 +53,11 @@ Here is a screenshot of my asset which contain my login credentials used to log 
 ![image](https://user-images.githubusercontent.com/110592885/202445660-200fd87d-e703-4b7f-b75a-37b553e833b8.png)
 
 
+Project 4:
+I created a report in Power Bi. This report gives the current standings of devices in the organization with their current statusses and the category and zone to which each device belongs. This report will be used to make important decisions about devices and wether to add new devices or not. This report contains 3 pages: The first page contains a high level summary view of the organization currently:
+
+![image](https://user-images.githubusercontent.com/110592885/202446154-29a07952-1964-4d19-a5dd-769970843101.png)
+
+The second page is used for monitoring the devices:
+
+![image](https://user-images.githubusercontent.com/110592885/202446255-0771a67e-7cff-4ecb-835a-a42d19984456.png)
