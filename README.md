@@ -24,8 +24,10 @@ I created an API with the following url: https://30598303api.azurewebsites.net/s
 /api/Zones - POST
 /api/Zones/{id} - DELETE
 /api/Zones/{id} - GET
-/api/Zones/{id} - PUT Credentials: Username: CloeteAR30598303 Password: M@thy1010 Reference List:
-https://docs.microsoft.com/en-us/certifications/azure-fundamentals/
-https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
-https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/
-https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1 alttext alttext alttext
+/api/Zones/{id} - PUT 
+
+https://github.com/AnriqueCloete/CMPG323_Project2_API/blob/main/API%20Manager%20Screenshot%201.png?raw=true
+
+https://github.com/AnriqueCloete/CMPG323_Project2_API/blob/main/API%20Manager%20Screenshot%202.png?raw=true
+
+https://github.com/AnriqueCloete/CMPG323_Project2_API/blob/main/API%20Manager%20Screenshot%203.png?raw=true
