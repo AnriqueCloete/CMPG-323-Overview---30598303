@@ -37,6 +37,8 @@ Project 3:
 I created a web app and how this app will be used: 
 This web app will be used to view and maintain the ConnectedOffice Database (update, delete, add and edit data in the tables). In order to view and edit data you need to register an account and login. If you already have an ccount you can just sign in. Here is a screen recording of how this app works after it has been published and hosted on Azure:
 
-Home Page - Connected Office_ Device Management - Google Chrome 2022-09-29 09-02-56.zip
+[Home.Page.-.Connected.Office_.Device.Management.-.Google.Chrome.2022-09-29.09-02-56.zip]
+
+(https://github.com/AnriqueCloete/CMPG-323-Overview---30598303/files/10031386/Home.Page.-.Connected.Office_.Device.Management.-.Google.Chrome.2022-09-29.09-02-56.zip)
 
 Here is the link to the site as well: https://30598303devicemanagementwebapp20220928150954.azurewebsites.net
