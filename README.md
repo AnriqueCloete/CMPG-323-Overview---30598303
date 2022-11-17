@@ -40,3 +40,16 @@ This web app will be used to view and maintain the ConnectedOffice Database (upd
 (https://github.com/AnriqueCloete/CMPG-323-Overview---30598303/files/10031386/Home.Page.-.Connected.Office_.Device.Management.-.Google.Chrome.2022-09-29.09-02-56.zip)
 
 Here is the link to the site as well: https://30598303devicemanagementwebapp20220928150954.azurewebsites.net
+
+Project 4:
+This project is a process automation which automates the process of logging in to a web app and automating the addition, reading, updating as well as deletion of data from tables on the web app. The data is read from an excel file and added to a data table in UiPath. After each automation (addition, reading, updating, deleing) a test is done to see if the automation has been successful. On the last sheet of the excel workbook a true or false indicates whether an automation has been successful or not.
+
+Here are screenshots of my automation published on Orchestrator:
+
+![image](https://user-images.githubusercontent.com/110592885/202445570-6d26bf72-3098-4471-9d93-a6f7bf211da7.png)
+
+Here is a screenshot of my asset which contain my login credentials used to log into the web app:
+
+![image](https://user-images.githubusercontent.com/110592885/202445660-200fd87d-e703-4b7f-b75a-37b553e833b8.png)
+
+
