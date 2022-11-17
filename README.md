@@ -7,7 +7,8 @@ I have created my a ceasar cipher that i use to encrypt a text file that contain
 Additionally I have this information stored on a usb as well as a printed copy which I keep seperate and a secure locations.
 
 I will now add information about each project and how each project should be used:
-Project 1:
+
+Project 2:
 I created an API with the following url: https://30598303api.azurewebsites.net/swagger/index.html. Here is a list of all the endpoints implemented in my API:
 
 /api/Categories - GET
@@ -32,3 +33,9 @@ I created an API with the following url: https://30598303api.azurewebsites.net/s
 
 ![image](https://user-images.githubusercontent.com/110592885/202443734-9ec6dfdf-29ca-4e4d-b89b-262151d7da55.png)
 
+Project 3:
+How this app will be used: This web app will be used to view and maintain the ConnectedOffice Database (update, delete, add and edit data in the tables) In order to view and edit data you need to register an account and login. If you already have an ccount you can just sign in. Here is a screen recording of how this app works after it has been published and hosted on Azure:
+
+Home Page - Connected Office_ Device Management - Google Chrome 2022-09-29 09-02-56.zip
+
+Here is the link to the site as well: https://30598303devicemanagementwebapp20220928150954.azurewebsites.net
